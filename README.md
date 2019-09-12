@@ -6,6 +6,8 @@ Data:09 de Setembro de 2019
 Este trabalho tem como objetivo criar um analisador lexico baseado em "C".
 Foi utilizada a ferramenta FLEX para realizar este trabalho. 
 
+https://github.com/westes/flex
+
 $ apt-get install flex
 
 
